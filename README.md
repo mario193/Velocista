@@ -1,2 +1,2 @@
 # Velocista
-Un robot muy rápido
+A running robot designed on KiCad
